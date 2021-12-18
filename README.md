@@ -33,3 +33,5 @@ in CMD ( pip install -r requirements.txt )
 ## make sure to be in the project directory before running the command.
 
 ## if you are using any other environment than shell please run the startup.py file to check the requirements of your environment.
+
+after all this run the voice_assistant.py file.
