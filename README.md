@@ -1,5 +1,5 @@
 # Voice_Assistant
-This is a project with simple python code, no fancy frameworks are used to create this project.
+This is a project with simple python3 code, no fancy frameworks are used to create this project.
 
 this is a voice recognition project which is based on simple python libraries.
 
@@ -22,8 +22,14 @@ the ASSISTANT only accepts VOICE COMMANDS and only commands which has "Assistant
 
 the required python libraries are-
 
-speech_recognition
-pyttsx3
-pywhatkit
-wikipedia
-datetime.
+speech_recognition, pyttsx3, pywhatkit, wikipedia, datetime.
+
+please install requirements.txt file to get the libraries needed to run project.
+
+if you don't know how to install requirements.txt here is a command that can get you started :) 
+
+in CMD ( pip install -r requirements.txt )
+
+## make sure to be in the project directory before running the command.
+
+## IF YOU DONT WANT TO USE TERMINAL PLEASE RUN THE STARTUP.PY FILE TO CHECK THE REQUIREMENTS.
