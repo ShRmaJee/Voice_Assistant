@@ -32,4 +32,4 @@ in CMD ( pip install -r requirements.txt )
 
 ## make sure to be in the project directory before running the command.
 
-## IF YOU DONT WANT TO USE TERMINAL PLEASE RUN THE STARTUP.PY FILE TO CHECK THE REQUIREMENTS.
+## if you are using any other environment than shell please run the startup.py file to check the requirements of your environment.
